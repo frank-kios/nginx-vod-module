@@ -1,3 +1,6 @@
+# My Change
+* Change ts file extension from .ts to .jpeg
+
 # NGINX-based VOD Packager
 ## nginx-vod-module [![Build Status](https://travis-ci.org/kaltura/nginx-vod-module.svg?branch=master)](https://travis-ci.org/kaltura/nginx-vod-module)
 
